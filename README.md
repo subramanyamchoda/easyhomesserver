@@ -9,7 +9,7 @@ This is the **backend server** for **EasyHomes**, a smart rental platform built 
 * 🌐 **Frontend App**: [https://easyhomes7.vercel.app](https://easyhomes7.vercel.app)
 * ⚙️ **Backend API**: [https://easyhomes-2ibc.onrender.com](https://easyhomes-2ibc.onrender.com)
 * 📁 **Frontend Repo**: [https://github.com/subramanyamchoda/easyhomes\_client](https://github.com/subramanyamchoda/easyhomes_client)
-* 📁 **Backend Repo**: [https://github.com/subramanyamchoda/easyhomes\_server](https://github.com/subramanyamchoda/easyhomes_server)
+* 📁 **Backend Repo**: [https://github.com/subramanyamchoda/easyhomes\server](https://github.com/subramanyamchoda/easyhomesserver)
 
 ---
 
